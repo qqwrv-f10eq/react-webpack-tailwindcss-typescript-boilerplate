@@ -14,8 +14,8 @@ This is a boilerplate project for setting up a React application with TypeScript
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd react-ts-tailwind-purgecss-webpack
+   git clone https://github.com/qqwrv-f10eq/react-webpack-tailwindcss-typescript-boilerplate
+   cd react-webpack-tailwindcss-typescript-boilerplate
    ```
 
 2. Install the dependencies:
