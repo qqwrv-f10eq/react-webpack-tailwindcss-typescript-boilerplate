@@ -120,13 +120,8 @@ TypeScript is configured in `tsconfig.json`. You can customize the TypeScript se
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ## Credits
 
 This project setup was generated with the help of ChatGPT-4 by OpenAI.
-```
-
-Replace `https://github.com/qqwrv-f10eq/react-webpack-tailwindcss-typescript-boilerplate` with the URL of your repository.
-
 This `README.md` provides a comprehensive overview of the project, setup instructions, and credits for using ChatGPT-4.
