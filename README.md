@@ -1,4 +1,4 @@
-# GIS React TypeScript TailwindCSS Webpack Project
+# React TypeScript TailwindCSS Webpack Project
 
 This is a boilerplate project for setting up a React application with TypeScript, TailwindCSS, PurgeCSS, and Webpack. This project setup was generated with the help of ChatGPT-4.
 
